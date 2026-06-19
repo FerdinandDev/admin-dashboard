@@ -4,25 +4,26 @@ A modern Admin-dashboard log-in and dashboard landing page built as a frontend d
 
 🔗 [view Live site](https://ferdinanddev.github.io/admin-dashboard/)
 
-View live site
+## site log in details
 Log in details: username; admin 
 password; admin
 
 
-🛠️ Built With
+## Built With
 
 HTML
 CSS 
 Javascript
 
-✨ Features
-
+✨## Features
 
 Clean, modern UI log in and dash board landing page
-📌 About
+
+
+📌 ##  About
 
 This project was built to practice core user interface frontend fundamentals as part of my journey into frontend development.
 
-👤 Author
+👤 ##  Author
 
 Ferdinand (@FerdinandDev)
