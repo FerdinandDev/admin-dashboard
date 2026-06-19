@@ -1,8 +1,8 @@
-**Pulse**
+#  Pulse
 
 A modern Admin-dashboard log-in and dashboard landing page built as a frontend development portfolio project.
 
-🔗 Live Demo: (https://ferdinanddev.github.io/admin-dashboard/)
+🔗 [view Live site](https://ferdinanddev.github.io/admin-dashboard/)
 
 View live site
 Log in details: username; admin 
